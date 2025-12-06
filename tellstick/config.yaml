@@ -2,8 +2,8 @@
 version: 2.2.0
 slug: tellstick
 name: TellStick [deprecated]
-description: TellStick and TellStick Duo service
-url: https://github.com/magfro/Home-Assistant-Addons/tree/master/tellstick
+description: TellStick and TellStick Duo service (magfro)
+url: https://github.com/magfro/Home-Assistant-Addons/tree/main/tellstick
 arch:
   - armhf
   - armv7

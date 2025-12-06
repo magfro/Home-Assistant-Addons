@@ -5,6 +5,16 @@
 > The library this add-on depends on is abandoned. Its last activity was 5
 > years ago and it cannot be built on Alpine versions above 3.15. Users can continue
 > using the add-on, but no issues or pull requests will be accepted.
+>
+> **IMPORTANT**
+> This is a copy of the official tellstick Home Assistant add-on repo as it was
+> in December 2025, before it was removed. It is only retained here in order for
+> me to be able to use it in my Home Assistant installation without getting
+> Repair issue notice from the Supervisor.
+> 
+> If you want to install it, do it at your own risk. Use this URL when you add
+> the repo to Home Assistant add-on store:
+> https://github.com/magfro/Home-Assistant-Addons
 
 TellStick and TellStick Duo service.
 
